@@ -2,7 +2,7 @@
 
 **Название проекта:** RAG-bot  
 **Стек:** Python, aiogram 3, ChromaDB, Sentence-Transformers, Ollama (llama3.2)  
-**Репозиторий:** https://github.com/4YMHOU/Rag_bot
+**Репозиторий:** https://github.com/4YMHOU/Rag_bot  
 **Автор:** 4YMHOU
 
 ---
